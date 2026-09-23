@@ -1,0 +1,90 @@
+[
+    {
+        "timestamp": "23-09-2026 04:35 PM",
+        "customer_message": "The product is good",
+        "sentiment": "Neutral",
+        "confidence": 48.77,
+        "severity": "Low",
+        "bot_response": "Thank you for taking the time to let us know about your experience with our product. We're glad to hear that you're satisfied with it. If you have any other questions or concerns, feel free to ask!"
+    },
+    {
+        "timestamp": "23-09-2026 04:35 PM",
+        "customer_message": "I am not satisfied",
+        "sentiment": "Negative",
+        "confidence": 65.41,
+        "severity": "Low",
+        "bot_response": "Dear customer,\n\nI'm sorry to hear that you're not satisfied with your experience with us. I'd be happy to help you find a solution or answer any questions you may have. Can you please tell me more about the issue you're experiencing so I can assist you further?"
+    },
+    {
+        "timestamp": "23-09-2026 04:37 PM",
+        "customer_message": "I absolutely love this product! The quality is excellent and it works perfectly.",
+        "sentiment": "Positive",
+        "confidence": 98.89,
+        "severity": "Low",
+        "bot_response": "Thank you so much for taking the time to share your wonderful experience with our product! We're thrilled to hear that it meets your expectations and that you're enjoying it. We're grateful for customers like you who help us know we're doing something right!"
+    },
+    {
+        "timestamp": "23-09-2026 04:38 PM",
+        "customer_message": "I was charged twice.",
+        "sentiment": "Negative",
+        "confidence": 52.53,
+        "severity": "High",
+        "bot_response": "I'm so sorry to hear that you've been charged twice. We're here to help, and I'd like to assist you in resolving this issue as soon as possible. Please contact our customer support team directly, and we'll do our best to address your concern and find a solution for you."
+    },
+    {
+        "timestamp": "23-09-2026 04:48 PM",
+        "customer_message": "the battery of smart watch is not good. i felt bad about the product.",
+        "sentiment": "Negative",
+        "confidence": 46.73,
+        "severity": "Low",
+        "bot_response": "Dear Customer,\n\nI'm sorry to hear that the battery life of your smart watch has been less than satisfactory, causing you inconvenience. I want to assure you that we take all feedback seriously and would be happy to help you troubleshoot or discuss possible solutions. Please feel free to contact our customer support team so we can further assist you.\n\nBest regards, [Your Name]"
+    },
+    {
+        "timestamp": "23-09-2026 04:49 PM",
+        "customer_message": "i have complaint about my smart watch battery problem thrice but nobody is responsponding to my comment ",
+        "sentiment": "Neutral",
+        "confidence": 37.84,
+        "severity": "Low",
+        "bot_response": "Dear valued customer, \n\nWe apologize for the delay in responding to your concerns about your smart watch battery issues. We are taking immediate action to address this issue and ensure it is resolved to your satisfaction. If you could please try contacting us again, we will be happy to assist you further.\n\nThank you for your patience and understanding."
+    },
+    {
+        "timestamp": "23-09-2026 04:52 PM",
+        "customer_message": "i recieved a product it is really working good ",
+        "sentiment": "Positive",
+        "confidence": 53.37,
+        "severity": "Low",
+        "bot_response": "We're thrilled to hear that the product is working well for you! Your satisfaction is our top priority, and we're glad we could provide you with a positive experience. If you have any other questions or need any further assistance, please don't hesitate to reach out."
+    },
+    {
+        "timestamp": "23-09-2026 04:53 PM",
+        "customer_message": "good wonderful excellenct marvellous ",
+        "sentiment": "Positive",
+        "confidence": 92.09,
+        "severity": "Low",
+        "bot_response": "We're thrilled to hear that you had a positive experience with our store! Thank you for taking the time to share your wonderful feedback - it means a lot to us."
+    },
+    {
+        "timestamp": "23-09-2026 04:56 PM",
+        "customer_message": "The bottle is simple and convenient to use. I like that it’s lightweight without feeling fragile, and it keeps water cold for a decent amount of time. The overall design is attractive and practical. However, the lid could feel more secure, and the bottle can be slightly slippery when wet. Overall, it’s a good everyday product, but small improvements to the grip and lid would make it better.",
+        "sentiment": "Positive",
+        "confidence": 69.36,
+        "severity": "Low",
+        "bot_response": "Thank you for taking the time to share your thoughts about our bottle. We appreciate your feedback and will consider your suggestions for improving the grip and lid for future product development. We're glad you've found the bottle to be a convenient and attractive everyday product."
+    },
+    {
+        "timestamp": "23-09-2026 05:03 PM",
+        "customer_message": "Rating: 4/5; Ease of use: 5/5; Design: 4/5; Durability: 3/5; Price: 4/5",
+        "sentiment": "Positive",
+        "confidence": 63.67,
+        "severity": "Low",
+        "bot_response": "Dear valued customer,\n\nThank you for taking the time to share your feedback with us. We appreciate your honesty and would like to apologize that our product didn't meet your expectations in terms of durability. We'll take your feedback into consideration to continuously improve our products and services."
+    },
+    {
+        "timestamp": "23-09-2026 05:04 PM",
+        "customer_message": "i really like the product because it is easy to use and looks",
+        "sentiment": "Positive",
+        "confidence": 70.23,
+        "severity": "Low",
+        "bot_response": "Thank you for taking the time to share your thoughts about our product. I'm thrilled to hear that you find it easy to use and aesthetically pleasing. Your feedback is greatly appreciated and will help us continue to improve and provide the best experience for our customers."
+    }
+]
