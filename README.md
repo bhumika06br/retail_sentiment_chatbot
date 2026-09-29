@@ -69,6 +69,7 @@ TF-IDF Feature Extraction
 Logistic Regression
        ↓
 Sentiment Classification
+
        ↓
 Severity Detection
        ↓
